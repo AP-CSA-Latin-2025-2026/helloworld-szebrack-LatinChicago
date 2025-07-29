@@ -10,6 +10,7 @@ public class Library {
 		//Wish Mr. Zebrack a happy birthday (15 points)
 		System.out.println("happy birthday mr. Zebrack");		
 		//print out the result from 5 + 5; (20 points)
+		System.out.println(5+5);
 		
 	}
 }
